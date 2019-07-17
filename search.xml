@@ -20,7 +20,9 @@
       
         <tags>
             
-            <tag> docker rocketmq </tag>
+            <tag> docker </tag>
+            
+            <tag> rocketmq </tag>
             
         </tags>
       
@@ -45,7 +47,9 @@
       
         <tags>
             
-            <tag> docker mysql </tag>
+            <tag> docker </tag>
+            
+            <tag> mysql </tag>
             
         </tags>
       
